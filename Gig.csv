@@ -1,0 +1,605 @@
+﻿EmployeeID,HourlyWage,Industry,Job
+1,32.81,Construction,Analyst
+2,46.00,Automotive,Engineer
+3,43.13,Construction,Sales Rep
+4,48.09,Automotive,Other
+5,43.62,Automotive,Accountant
+6,46.98,Construction,Engineer
+7,43.03,Construction,Sales Rep
+8,40.96,Construction,Programmer
+9,38.89,Construction,Consultant
+10,46.13,Construction,Accountant
+11,28.00,Automotive,Engineer
+12,31.24,Construction,Consultant
+13,37.23,Construction,Other
+14,32.35,Construction,Accountant
+15,37.53,Construction,Sales Rep
+16,24.76,Automotive,Programmer
+17,47.00,Automotive,Other
+18,47.25,Automotive,Other
+19,42.53,Automotive,Engineer
+20,26.09,Construction,Consultant
+21,49.59,Construction,
+22,47.97,Construction,Accountant
+23,48.77,Construction,Engineer
+24,42.58,,Sales Rep
+25,49.70,Automotive,Engineer
+26,42.18,Automotive,Engineer
+27,29.30,Construction,Consultant
+28,38.24,Construction,Programmer
+29,48.87,Tech,Sales Rep
+30,46.39,Automotive,Engineer
+31,46.66,Automotive,Engineer
+32,31.08,Construction,Accountant
+33,42.91,Construction,Consultant
+34,37.53,Construction,Sales Rep
+35,36.47,Construction,Other
+36,38.28,Automotive,Accountant
+37,48.53,Construction,Engineer
+38,39.73,Construction,Programmer
+39,32.17,Construction,Sales Rep
+40,34.76,Tech,Programmer
+41,38.76,Construction,Consultant
+42,48.53,Construction,Engineer
+43,41.26,Tech,Accountant
+44,48.66,Automotive,Engineer
+45,33.78,Construction,Engineer
+46,47.46,Automotive,Engineer
+47,32.00,Automotive,Sales Rep
+48,35.41,Construction,Programmer
+49,44.57,Construction,Consultant
+50,45.42,Construction,Other
+51,43.26,Construction,Accountant
+52,33.66,Construction,Engineer
+53,33.66,Construction,Engineer
+54,48.95,Automotive,Engineer
+55,47.18,Construction,Sales Rep
+56,44.57,Construction,Programmer
+57,43.73,Construction,Consultant
+58,44.90,Construction,
+59,42.92,Automotive,Accountant
+60,42.85,Construction,Programmer
+61,32.35,Construction,Accountant
+62,27.18,Construction,Engineer
+63,32.96,Construction,Sales Rep
+64,33.98,Construction,Programmer
+65,34.07,Automotive,Consultant
+66,26.09,Construction,
+67,41.50,Automotive,Accountant
+68,25.40,Construction,Engineer
+69,35.78,Construction,Sales Rep
+70,49.77,Construction,Accountant
+71,30.74,Construction,Programmer
+72,45.47,Automotive,Engineer
+73,43.73,Tech,Consultant
+74,44.51,Construction,Programmer
+75,42.92,Automotive,Accountant
+76,31.33,Construction,Other
+77,29.00,Automotive,Accountant
+78,25.40,Construction,Engineer
+79,50.00,Automotive,Engineer
+80,34.76,Tech,Engineer
+81,34.01,Construction,Sales Rep
+82,41.26,Tech,Programmer
+83,37.59,Construction,Programmer
+84,42.92,Automotive,Accountant
+85,32.70,Construction,Programmer
+86,27.18,Construction,Engineer
+87,41.88,Automotive,Consultant
+88,31.00,Tech,Other
+89,41.93,Construction,
+90,43.00,Automotive,Sales Rep
+91,33.45,Construction,Accountant
+92,49.77,Construction,Accountant
+93,44.51,Construction,Programmer
+94,45.01,Automotive,Engineer
+95,45.02,Automotive,Engineer
+96,41.14,Construction,Engineer
+97,48.09,Construction,Other
+98,46.18,Automotive,Engineer
+99,45.73,Automotive,Engineer
+100,47.13,Construction,Engineer
+101,47.72,Construction,Sales Rep
+102,40.18,Construction,Programmer
+103,37.53,Construction,Sales Rep
+104,29.56,Construction,Consultant
+105,48.71,Automotive,Engineer
+106,36.75,Construction,Other
+107,37.23,Construction,Other
+108,43.12,Construction,
+109,43.95,Automotive,Engineer
+110,51.00,Construction,Other
+111,42.04,Automotive,Engineer
+112,33.66,Construction,Engineer
+113,36.13,Tech,Engineer
+114,47.16,Automotive,Engineer
+115,40.18,Construction,Programmer
+116,42.61,Automotive,Engineer
+117,35.71,Construction,Programmer
+118,36.11,Construction,Consultant
+119,48.93,Construction,Other
+120,44.90,Construction,Other
+121,48.71,Construction,Other
+122,32.94,Construction,Accountant
+123,48.53,Construction,Engineer
+124,44.90,Construction,Other
+125,47.72,Tech,Engineer
+126,42.58,Automotive,Sales Rep
+127,25.17,Tech,Sales Rep
+128,47.10,Automotive,Other
+129,47.79,Automotive,Engineer
+130,48.98,Automotive,Consultant
+131,44.59,Automotive,Engineer
+132,41.06,Construction,Programmer
+133,43.83,Automotive,Engineer
+134,45.49,Tech,Other
+135,44.57,Construction,Consultant
+136,48.56,Automotive,Accountant
+137,48.87,Tech,Sales Rep
+138,40.18,Construction,Consultant
+139,42.18,,Engineer
+140,42.03,Automotive,Engineer
+141,49.49,Tech,Accountant
+142,25.17,Automotive,Engineer
+143,32.38,Construction,Engineer
+144,26.90,Construction,Sales Rep
+145,47.38,Automotive,Engineer
+146,48.53,Construction,Engineer
+147,41.26,Automotive,Programmer
+148,44.51,Construction,Programmer
+149,40.48,Automotive,Engineer
+150,26.09,Construction,Other
+151,44.98,Construction,Programmer
+152,30.74,Construction,Programmer
+153,40.48,Construction,Consultant
+154,40.34,Construction,Other
+155,47.54,Automotive,Other
+156,25.40,Construction,Engineer
+157,36.30,Construction,Accountant
+158,44.38,Construction,Other
+159,31.33,Construction,Other
+160,48.09,Construction,Other
+161,46.35,Construction,Other
+162,43.03,Construction,Sales Rep
+163,48.08,Tech,Sales Rep
+164,46.17,Automotive,Engineer
+165,31.00,Construction,Engineer
+166,40.18,Construction,Programmer
+167,33.00,Tech,Other
+168,29.56,Construction,Consultant
+169,32.38,Construction,Engineer
+170,30.47,Construction,Consultant
+171,35.16,Construction,Sales Rep
+172,42.55,Construction,Programmer
+173,42.84,Construction,Consultant
+174,38.98,Construction,Consultant
+175,48.80,Automotive,
+176,47.02,Automotive,Engineer
+177,40.18,Construction,Programmer
+178,41.25,Automotive,Engineer
+179,48.09,Construction,Accountant
+180,31.63,Construction,Accountant
+181,24.89,Construction,Sales Rep
+182,48.47,Construction,Other
+183,41.65,Construction,Engineer
+184,26.90,Construction,Sales Rep
+185,33.98,Construction,Programmer
+186,48.75,Construction,Other
+187,44.57,Construction,Accountant
+188,49.00,Automotive,Programmer
+189,44.57,Construction,Consultant
+190,49.01,Automotive,Engineer
+191,40.76,Construction,Other
+192,40.27,Construction,Accountant
+193,45.04,Automotive,Other
+194,41.06,Construction,Programmer
+195,40.18,Construction,Programmer
+196,42.88,Construction,Engineer
+197,48.87,Tech,Sales Rep
+198,36.13,Tech,Sales Rep
+199,41.87,Automotive,Engineer
+200,47.44,Construction,Sales Rep
+201,48.09,Construction,Other
+202,45.66,Automotive,Engineer
+203,40.48,Construction,Programmer
+204,44.94,Automotive,Engineer
+205,25.00,Automotive,Engineer
+206,42.53,Automotive,Engineer
+207,35.41,Construction,Programmer
+208,41.88,Construction,Engineer
+209,46.45,Automotive,Engineer
+210,30.76,Construction,Consultant
+211,42.18,Automotive,Engineer
+212,30.74,Construction,
+213,43.01,Construction,Accountant
+214,27.18,Construction,Engineer
+215,45.19,Automotive,Other
+216,25.17,Tech,Engineer
+217,49.55,Tech,Engineer
+218,38.98,Construction,Sales Rep
+219,33.98,Construction,Programmer
+220,39.71,Automotive,Other
+221,24.76,Automotive,Programmer
+222,47.81,Automotive,Engineer
+223,35.16,Construction,Sales Rep
+224,30.74,Construction,Programmer
+225,44.57,Construction,Other
+226,33.98,Construction,Programmer
+227,49.69,Automotive,Engineer
+228,37.59,Automotive,Programmer
+229,40.88,Automotive,Engineer
+230,46.10,Automotive,Accountant
+231,33.66,Construction,Engineer
+232,46.02,Automotive,Engineer
+233,48.00,Automotive,Other
+234,46.35,Construction,Programmer
+235,48.97,Automotive,Accountant
+236,44.54,Automotive,Accountant
+237,41.77,Automotive,Engineer
+238,41.26,Tech,Accountant
+239,27.18,Construction,Engineer
+240,29.30,Construction,Consultant
+241,47.02,Construction,Consultant
+242,47.13,Tech,Consultant
+243,31.00,Construction,Accountant
+244,33.66,Construction,Engineer
+245,47.96,Automotive,Engineer
+246,36.11,Construction,Consultant
+247,43.26,Construction,Accountant
+248,47.18,Construction,Sales Rep
+249,41.00,Automotive,Engineer
+250,33.00,Tech,Sales Rep
+251,26.09,Tech,Programmer
+252,36.75,Construction,Other
+253,44.90,Construction,
+254,44.90,Construction,Other
+255,43.26,Construction,Accountant
+256,43.26,Construction,Accountant
+257,32.17,Construction,Consultant
+258,44.74,Automotive,Engineer
+259,48.71,Automotive,Engineer
+260,41.99,Automotive,Engineer
+261,46.08,Construction,Other
+262,37.53,Construction,Sales Rep
+263,37.53,Construction,Sales Rep
+264,35.43,Automotive,Consultant
+265,41.20,Construction,Programmer
+266,45.71,Construction,Engineer
+267,45.28,Automotive,Engineer
+268,34.23,Construction,Other
+269,45.17,Automotive,Engineer
+270,41.65,Construction,Accountant
+271,43.73,Construction,Engineer
+272,47.18,Construction,Sales Rep
+273,32.38,Construction,Engineer
+274,43.97,Automotive,Engineer
+275,44.39,Construction,Sales Rep
+276,36.13,Construction,Programmer
+277,37.65,Construction,Consultant
+278,37.84,Construction,Consultant
+279,33.45,Construction,Other
+280,46.13,Automotive,Engineer
+281,45.47,Automotive,Engineer
+282,49.00,Automotive,Engineer
+283,41.26,Construction,Consultant
+284,43.69,Construction,Sales Rep
+285,42.18,Construction,Engineer
+286,42.00,Automotive,Sales Rep
+287,40.48,Construction,Accountant
+288,46.98,Construction,Engineer
+289,25.24,Construction,Consultant
+290,29.56,Construction,Consultant
+291,26.09,Construction,
+292,48.87,Tech,Accountant
+293,44.00,Automotive,Engineer
+294,35.43,Construction,Consultant
+295,29.55,Tech,Engineer
+296,41.50,Automotive,Engineer
+297,40.28,Automotive,Other
+298,34.07,Construction,Consultant
+299,31.87,Automotive,Programmer
+300,45.77,Construction,Engineer
+301,28.17,Construction,Consultant
+302,40.48,Tech,Consultant
+303,40.51,Automotive,Engineer
+304,37.53,Construction,Sales Rep
+305,48.76,Automotive,Engineer
+306,42.40,Automotive,Engineer
+307,49.60,Construction,Other
+308,35.43,Construction,Consultant
+309,41.00,Automotive,Engineer
+310,40.48,Automotive,Engineer
+311,45.25,Automotive,Engineer
+312,34.96,Construction,Other
+313,48.50,Construction,Consultant
+314,41.37,Automotive,Accountant
+315,46.37,Construction,Engineer
+316,44.51,Construction,Programmer
+317,44.74,Automotive,Engineer
+318,27.18,Construction,Accountant
+319,41.20,Construction,Programmer
+320,34.96,Construction,Other
+321,44.04,Automotive,Engineer
+322,48.00,Automotive,Accountant
+323,47.18,Construction,Sales Rep
+324,48.19,Automotive,Engineer
+325,41.26,Automotive,Accountant
+326,45.19,Automotive,Engineer
+327,48.53,Construction,Sales Rep
+328,25.54,Construction,Programmer
+329,40.18,Construction,Programmer
+330,41.18,Construction,Other
+331,49.70,Construction,Engineer
+332,49.47,Tech,Programmer
+333,42.92,Construction,Accountant
+334,34.28,Construction,Sales Rep
+335,39.73,Construction,Programmer
+336,26.85,Construction,Programmer
+337,24.89,Construction,Sales Rep
+338,46.42,Automotive,Engineer
+339,37.59,Construction,Sales Rep
+340,42.59,Construction,Accountant
+341,48.09,Construction,Other
+342,42.71,Construction,Accountant
+343,42.20,Tech,Other
+344,27.18,Construction,Accountant
+345,27.18,Construction,Consultant
+346,26.09,Construction,Other
+347,26.09,Construction,
+348,49.91,Construction,Accountant
+349,47.18,Construction,Sales Rep
+350,40.96,Construction,Programmer
+351,30.47,Construction,Consultant
+352,48.97,Automotive,Programmer
+353,43.73,Tech,Consultant
+354,46.00,Automotive,Engineer
+355,45.00,Automotive,
+356,48.53,Construction,Engineer
+357,25.24,Construction,Consultant
+358,47.09,Automotive,Engineer
+359,27.80,Automotive,Engineer
+360,44.07,Tech,Other
+361,31.33,,Other
+362,37.53,Construction,Sales Rep
+363,48.53,Construction,Engineer
+364,40.92,Automotive,Consultant
+365,25.17,Construction,Sales Rep
+366,34.48,Construction,Sales Rep
+367,47.00,Automotive,Engineer
+368,47.72,Construction,Other
+369,48.53,Construction,Engineer
+370,44.51,Construction,Programmer
+371,29.56,Construction,Other
+372,27.18,Construction,Accountant
+373,49.91,Construction,Accountant
+374,48.56,Automotive,Engineer
+375,47.00,Automotive,Accountant
+376,47.54,Construction,Other
+377,42.14,Automotive,Engineer
+378,48.09,,Other
+379,44.59,Automotive,Engineer
+380,33.01,Construction,Programmer
+381,43.03,Construction,Sales Rep
+382,42.17,Automotive,Engineer
+383,43.48,Automotive,Engineer
+384,29.55,Construction,Other
+385,48.09,Construction,Other
+386,38.76,Construction,Consultant
+387,28.44,Construction,
+388,32.96,Construction,
+389,35.16,Construction,Sales Rep
+390,42.92,Construction,Consultant
+391,43.69,Construction,Consultant
+392,46.51,Construction,Other
+393,48.00,Automotive,Accountant
+394,30.16,Construction,Other
+395,35.16,Construction,Sales Rep
+396,33.00,Construction,Engineer
+397,41.06,Automotive,Sales Rep
+398,37.53,Construction,Sales Rep
+399,47.46,Automotive,Engineer
+400,47.13,Construction,Engineer
+401,46.13,Construction,Accountant
+402,35.62,Construction,Other
+403,29.56,Construction,Other
+404,32.35,Construction,Other
+405,42.85,Construction,Programmer
+406,33.78,Construction,Other
+407,45.71,Construction,Engineer
+408,44.60,Construction,Other
+409,33.88,Construction,Sales Rep
+410,43.21,Automotive,Engineer
+411,40.18,Automotive,Programmer
+412,48.00,Automotive,Other
+413,47.73,Automotive,Engineer
+414,40.96,Construction,Programmer
+415,30.01,Construction,Accountant
+416,48.53,Construction,Engineer
+417,48.53,Construction,Engineer
+418,49.66,Construction,Consultant
+419,48.93,Construction,Engineer
+420,44.57,Construction,Consultant
+421,35.62,Construction,Other
+422,35.16,Construction,Sales Rep
+423,27.18,Construction,Engineer
+424,37.59,Construction,Engineer
+425,31.33,Construction,Other
+426,43.68,Construction,Sales Rep
+427,33.98,Construction,Programmer
+428,32.00,Automotive,Engineer
+429,40.48,Construction,Consultant
+430,42.92,Automotive,Accountant
+431,36.13,Automotive,Engineer
+432,47.08,Construction,Other
+433,43.15,Construction,Programmer
+434,32.38,Construction,Engineer
+435,45.07,Automotive,Engineer
+436,27.18,Construction,Consultant
+437,48.09,Construction,Accountant
+438,42.60,Automotive,Engineer
+439,40.48,Automotive,Engineer
+440,42.18,Construction,Engineer
+441,32.35,,Accountant
+442,40.48,Construction,Sales Rep
+443,35.16,Construction,Sales Rep
+444,36.17,Automotive,Engineer
+445,48.50,Automotive,Engineer
+446,30.76,,Accountant
+447,44.90,Construction,Other
+448,36.70,Construction,Sales Rep
+449,31.33,Construction,Other
+450,43.30,Automotive,Engineer
+451,32.35,Construction,Accountant
+452,43.97,Automotive,Engineer
+453,49.59,Construction,Sales Rep
+454,33.45,Construction,Sales Rep
+455,48.00,Construction,Other
+456,42.92,Construction,Other
+457,44.64,Automotive,Engineer
+458,48.32,Automotive,Engineer
+459,35.43,Construction,Engineer
+460,30.74,Construction,Programmer
+461,40.48,Construction,Sales Rep
+462,45.76,Construction,Sales Rep
+463,30.47,Construction,Consultant
+464,41.95,Construction,Other
+465,48.00,Automotive,Other
+466,46.54,Construction,Programmer
+467,24.28,Construction,Engineer
+468,47.95,Automotive,Engineer
+469,48.65,Automotive,Engineer
+470,24.89,Construction,Sales Rep
+471,49.32,Automotive,Sales Rep
+472,33.98,Construction,Programmer
+473,44.86,Automotive,Engineer
+474,45.47,Automotive,Engineer
+475,45.21,Automotive,Consultant
+476,39.67,Automotive,Accountant
+477,49.32,Automotive,Accountant
+478,44.57,Construction,Accountant
+479,42.85,,Consultant
+480,40.92,Automotive,Engineer
+481,46.45,Automotive,Engineer
+482,47.00,Automotive,Engineer
+483,47.18,Construction,Sales Rep
+484,41.26,Construction,Accountant
+485,32.35,Construction,Other
+486,40.18,Construction,Programmer
+487,27.18,Construction,Consultant
+488,40.62,Construction,Accountant
+489,42.18,Automotive,Engineer
+490,48.26,Construction,Sales Rep
+491,47.72,Tech,Engineer
+492,45.82,Automotive,Engineer
+493,43.14,Construction,Engineer
+494,35.16,Construction,Sales Rep
+495,44.42,Construction,Consultant
+496,45.76,Automotive,Engineer
+497,41.89,Automotive,Consultant
+498,30.47,Construction,Consultant
+499,24.89,Construction,Sales Rep
+500,43.13,,Sales Rep
+501,39.06,Construction,Programmer
+502,42.92,Construction,Accountant
+503,42.21,Tech,Accountant
+504,32.35,Construction,Accountant
+505,35.43,Automotive,Programmer
+506,32.39,Construction,Consultant
+507,29.55,Construction,Consultant
+508,44.00,Automotive,Engineer
+509,40.18,Construction,Programmer
+510,32.38,Construction,Engineer
+511,48.09,Construction,Other
+512,41.11,Tech,Accountant
+513,35.71,Construction,Programmer
+514,48.09,Construction,Accountant
+515,30.74,Construction,Programmer
+516,42.71,Construction,Programmer
+517,44.86,Automotive,Engineer
+518,48.09,Construction,Other
+519,48.09,Construction,Accountant
+520,43.51,Construction,Programmer
+521,49.09,Automotive,Engineer
+522,38.77,Construction,Other
+523,45.00,Automotive,Other
+524,46.18,Automotive,Engineer
+525,27.18,Construction,Engineer
+526,43.73,Construction,Consultant
+527,40.18,Construction,Programmer
+528,36.13,Tech,Accountant
+529,40.18,Construction,Programmer
+530,47.91,Automotive,Other
+531,43.13,,Engineer
+532,46.60,Automotive,Engineer
+533,40.48,Construction,Sales Rep
+534,48.89,Automotive,Engineer
+535,33.66,Automotive,Programmer
+536,41.06,Automotive,Accountant
+537,43.52,Automotive,Engineer
+538,34.96,Construction,Other
+539,48.53,Construction,Engineer
+540,47.13,Tech,Accountant
+541,44.16,Construction,Engineer
+542,41.18,Construction,Other
+543,42.85,Automotive,Programmer
+544,49.70,Automotive,Engineer
+545,45.67,Automotive,Engineer
+546,44.27,Automotive,Engineer
+547,24.28,Construction,Sales Rep
+548,42.92,Automotive,Accountant
+549,43.00,Automotive,Sales Rep
+550,42.68,Automotive,Consultant
+551,40.48,Tech,Accountant
+552,35.78,Construction,Sales Rep
+553,39.67,Automotive,Accountant
+554,33.90,Automotive,Engineer
+555,44.90,Construction,
+556,48.53,Construction,Engineer
+557,35.71,Construction,Programmer
+558,49.00,Automotive,Engineer
+559,24.42,Construction,Engineer
+560,40.48,Tech,Accountant
+561,34.28,Construction,Sales Rep
+562,28.44,Construction,Other
+563,30.74,Construction,Programmer
+564,48.40,Automotive,Engineer
+565,38.98,,Accountant
+566,26.90,Construction,Sales Rep
+567,28.74,Automotive,Accountant
+568,41.26,Automotive,Engineer
+569,40.18,Construction,Programmer
+570,44.42,Automotive,Consultant
+571,35.43,Tech,Consultant
+572,32.81,Construction,Consultant
+573,48.53,Construction,Engineer
+574,32.10,Automotive,Accountant
+575,45.45,Construction,Sales Rep
+576,36.13,Construction,Sales Rep
+577,27.90,Automotive,
+578,31.33,Construction,Other
+579,35.71,Construction,Programmer
+580,24.28,Construction,Accountant
+581,32.35,Construction,Accountant
+582,30.74,Construction,Programmer
+583,40.97,Construction,Engineer
+584,25.17,Construction,Engineer
+585,41.00,Automotive,Engineer
+586,28.44,Construction,Other
+587,46.35,Construction,Accountant
+588,35.43,Construction,Other
+589,32.35,Construction,Accountant
+590,33.50,Automotive,Engineer
+591,40.48,Construction,Programmer
+592,29.56,Construction,Consultant
+593,48.98,Automotive,
+594,45.48,Construction,Engineer
+595,29.56,Construction,Consultant
+596,45.68,Automotive,Engineer
+597,35.71,Construction,Programmer
+598,33.66,Construction,Engineer
+599,49.84,Automotive,Engineer
+600,41.26,Automotive,Accountant
+601,42.53,Automotive,Engineer
+602,28.74,Construction,Other
+603,36.96,Construction,Other
+604,26.09,Construction,Other
