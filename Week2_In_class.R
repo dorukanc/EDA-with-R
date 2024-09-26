@@ -98,6 +98,7 @@ sortedData5 <- myData[order(myData$Industry, myData$Job, myData$HourlyWage, decr
 
 #import one of the sorted data as a csv file
 
+write.csv(sortedData5, "Sorted Data All Decreasing.csv")
 
 # The output file will be created in the project folder
 
@@ -109,44 +110,67 @@ sortedData5 <- myData[order(myData$Industry, myData$Job, myData$HourlyWage, decr
 # Example 2.2
 # Import the Restaurant_Reviews data file into a data frame (table) and label it myData
 
-
+rmyData <- read.csv("RestaurantReviews.csv", sep=",")
 
 # Check for NAs
-
-
+which(is.na(rmyData))
+is.na(rmyData$RecordNum)
+is.na(rmyData$Ambience)
+is.na(rmyData$Cleanliness)
+is.na(rmyData$Service)
+is.na(rmyData$Food)
 
 #Alternatively, use complete.cases function to identify the rows that are complete
 
-
+rmyData[complete.cases(rmyData),]
 
 #Since most of the rows are complete, you can check the not complete rows
 
-
+rmyData[!complete.cases(rmyData),]
 
 # You can remove all NAs within the data frame
 
+rmyData1.1 <- rmyData[complete.cases(rmyData),]
+View(rmyData1.1)
 
+# alternative
 
+omittedData <- na.omit(rmyData)
+View(omittedData)
+
+summary(rmyData)
 # imputation with mean
 #first find the mean value without NAs
 
+ambianceMean <- mean(omittedData$Ambience)
+serviceMean <- mean(omittedData$Service)
 
+# alternative
+
+ambianceMeanAlt <- mean(rmyData$Ambience, na.rm=TRUE)
+serviceMeanAlt <- mean(rmyData$Service, na.rm=TRUE)
+
+cleanlinessMedian <- median(rmyData$Cleanliness, na.rm=TRUE)
+foodMedian <- median(rmyData$Food, na.rm=TRUE)
 
 #replace NAs with the mean that you have just found
 
+rmyData$Ambience[is.na(rmyData$Ambience)] <- ambianceMeanAlt
+rmyData$Service[is.na(rmyData$Service)] <- serviceMeanAlt
 
-
+rmyData$Cleanliness[is.na(rmyData$Cleanliness)] <- cleanlinessMedian
+rmyData$Food[is.na(rmyData$Food)] <- foodMedian
 
 # 2. Subsetting
 # Example 2.3
 # Import the Customers data file into a data frame (table) and label it myData.
 
-
+myData3 <- read.csv("Customers.csv", sep=",")
 
 #Aim: Find the millennials with a college degree
 #First, find the customers with a college degree
-
-
+summary(myData3)
+collegeData <- myData3[myData3$College == "Yes",]
 
 #Then,select millennials (birthdata:1982-2000) from the above subset.
 # Note that R usually imports date values as text characters, so we need to convert the data type of the column called BirthDate
@@ -158,22 +182,35 @@ sortedData5 <- myData[order(myData$Industry, myData$Job, myData$HourlyWage, decr
 
 #First specify the Birth DAte column format
 
+collegeData$BirthDate <- as.Date(collegeData$BirthDate, format="%d.%m.%Y")
 
 #Then, write the cutoff dates and find millenials
 
+cutoffdate1 <- as.Date("01.01.1982", format="%d.%m.%Y")
+cutoffdate2 <- as.Date("31.12.1999", format="%d.%m.%Y")
 
+millenials <- collegeData[collegeData$BirthDate >= cutoffdate1 & collegeData$BirthDate <= cutoffdate2,]
 
 # Keep only columns "Sex, HouseholdSize, Income, Spending2021, NumoOrders, and Channel"
-#First wth column index
+#First with column index
 
+subset1 <- millenials[,c(2,6,8,10,11,14)]
 
 #The same with column names
 
+subset2 <- millenials[,c("Sex","HouseholdSize","Income","Spending2021","NumOfOrders","Channel")]
 
 #Correct the data structure of the categorical variables
 
+names(millenials)
 
+millenials$Sex <- as.factor(millenials$Sex)
+millenials$Race <- as.factor(millenials$Race)
+summary(millenials)
 
+str(millenials)
+
+# indices are given alphabetically 
 #split the data set
 
 

@@ -1,0 +1,201 @@
+﻿CustID,Sex,Race,BirthDate,College,HouseholdSize,ZipCode,Income,Spending2020,Spending2021,NumOfOrders,DaysSinceLast,Satisfaction,Channel
+1530016,Female,Black,16.12.1986,Yes,5,90047,53000,287,241,3,101,Very Dissatisfied,SM
+1531136,Male,White,9.05.1993,Yes,5,90026,94000,1227,843,12,262,Neutral,TV
+1532160,Male,Black,22.05.1966,Yes,2,90027,64000,523,719,9,122,Very Satisfied,TV
+1532307,Male,White,16.09.1964,Yes,4,90029,60000,516,582,13,129,Very Dissatisfied,SM
+1532356,Female,Hispanic,15.07.1964,No,5,90017,47000,555,845,7,97,Very Dissatisfied,Web
+1532387,Male,White,27.08.1957,Yes,2,90028,67000,631,452,9,150,Neutral,SM
+1533017,Female,Hispanic,14.05.1985,Yes,3,90063,84000,229,153,2,144,Very Satisfied,Web
+1533561,Male,Hispanic,10.02.1981,Yes,5,90050,76000,1474,1079,23,122,Very Satisfied,Referral
+1533697,Female,Asian,8.10.1974,Yes,3,90038,42000,300,247,3,238,Very Satisfied,Web
+1533766,Male,Hispanic,16.09.1971,Yes,2,90057,71000,925,708,4,171,Neutral,TV
+1533791,Male,White,27.10.1999,Yes,1,90060,97000,828,1028,17,110,Very Dissatisfied,Web
+1533917,Female,Black,3.03.1993,Yes,3,90045,64000,768,915,15,19,Very Satisfied,Referral
+1534502,Male,Hispanic,26.12.1989,Yes,2,90056,114000,938,665,7,262,Very Dissatisfied,TV
+1534928,Male,Hispanic,18.01.1959,Yes,5,90033,96000,631,796,13,68,Neutral,Referral
+1535063,Female,White,17.12.1982,Yes,3,90024,42000,341,313,4,300,Very Dissatisfied,TV
+1535406,Male,White,4.02.1984,No,5,90051,55000,129,100,1,80,Very Dissatisfied,Web
+1535449,Male,Black,21.09.1958,No,2,90062,56000,435,384,6,180,Very Dissatisfied,TV
+1535927,Male,White,12.01.1979,Yes,1,90003,66000,1283,879,10,35,Very Satisfied,Referral
+1536475,Male,Pacific Islander,17.05.1958,Yes,2,90019,73000,1276,1108,20,56,Neutral,Web
+1536814,Male,Black,25.07.1962,Yes,5,90036,86000,478,401,3,80,Very Dissatisfied,Web
+1537373,Female,Black,20.01.1972,No,5,90035,44000,615,748,15,295,Very Satisfied,Web
+1537553,Female,White,7.07.1961,No,4,90060,36000,153,141,2,360,Very Satisfied,TV
+1538886,Male,American Indian,15.09.1996,Yes,2,90014,94000,590,524,7,177,Somewhat Satisfied,Referral
+1539494,Male,White,17.11.1973,Yes,4,90038,54000,451,307,6,35,Neutral,Web
+1539808,Male,Black,2.08.1954,Yes,5,90024,82000,389,486,6,167,Neutral,Web
+1539941,Male,Hispanic,22.06.1994,No,1,90033,42000,697,1150,22,267,Very Satisfied,Referral
+1539995,Female,Hispanic,12.10.1956,Yes,2,90067,96000,631,802,17,354,Somewhat Satisfied,TV
+1540076,Male,American Indian,24.01.1978,Yes,5,90012,60000,63,113,1,178,Very Satisfied,TV
+1540183,Male,White,27.02.1991,Yes,1,90066,91000,1018,800,10,6,Somewhat Satisfied,Web
+1540217,Male,Hispanic,22.10.1969,Yes,1,90011,76000,546,1037,26,271,Somewhat Satisfied,SM
+1540539,Male,White,28.05.1960,Yes,5,90049,100000,50,50,1,240,Somewhat Satisfied,Web
+1540604,Female,White,22.04.1970,Yes,3,90011,73000,428,539,5,12,Very Satisfied,Web
+1541742,Male,Black,15.03.1960,Yes,2,90052,106000,775,536,12,140,Somewhat Dissatisfied,Referral
+1541931,Male,Black,4.01.1956,Yes,3,90011,55000,561,587,11,302,Somewhat Satisfied,TV
+1542099,Male,Asian,6.07.1984,Yes,2,90038,86000,234,314,7,96,Somewhat Dissatisfied,SM
+1542147,Male,Black,27.03.1989,Yes,5,90030,51000,398,573,8,218,Somewhat Satisfied,SM
+1542352,Male,White,3.04.1978,Yes,4,90048,60000,84,132,3,349,Neutral,SM
+1542818,Female,White,10.12.1960,Yes,1,90048,63000,969,814,14,58,Neutral,TV
+1543502,Male,Hispanic,6.04.1982,Yes,2,90007,55000,461,563,12,17,Somewhat Satisfied,SM
+1543582,Male,White,23.04.1973,Yes,3,90047,101000,1166,1064,13,108,Somewhat Dissatisfied,Web
+1543734,Male,Pacific Islander,6.03.1990,Yes,5,90042,69000,390,442,3,265,Somewhat Satisfied,TV
+1543850,Male,White,7.12.1953,Yes,1,90008,66000,1851,1241,21,315,Very Satisfied,SM
+1543988,Male,Hispanic,19.06.1963,Yes,3,90060,83000,449,813,11,263,Somewhat Satisfied,Web
+1544003,Male,Hispanic,8.05.1984,Yes,4,90010,68000,1357,1214,31,95,Somewhat Satisfied,Referral
+1544391,Male,White,20.08.1997,Yes,2,90005,68000,1314,1027,25,92,Somewhat Satisfied,TV
+1544417,Male,Hispanic,14.03.1980,Yes,4,90040,46000,299,369,3,281,Somewhat Satisfied,TV
+1544461,Female,Black,3.08.1972,No,5,90033,47000,328,300,4,66,Neutral,SM
+1544588,Male,White,1.09.1995,Yes,3,90028,78000,562,1057,16,224,Neutral,SM
+1544628,Male,White,15.09.1983,Yes,3,90021,69000,215,173,3,11,Somewhat Satisfied,Web
+1544649,Male,White,19.11.1962,No,4,90055,55000,1081,1116,28,328,Somewhat Dissatisfied,TV
+1544764,Female,Black,16.12.1995,Yes,5,90045,97000,1272,911,16,59,Somewhat Satisfied,Web
+1545054,Male,Hispanic,11.05.1984,Yes,5,90014,102000,356,626,9,320,Very Satisfied,Referral
+1545822,Male,Hispanic,17.10.1964,Yes,4,90023,96000,613,1196,9,240,Very Satisfied,Web
+1546050,Male,Black,3.03.1965,Yes,2,90050,148000,1172,892,19,9,Somewhat Satisfied,TV
+1546105,Male,Black,13.07.1960,Yes,2,90033,123000,1000,799,8,360,Somewhat Satisfied,Referral
+1546138,Female,Black,8.03.1981,Yes,1,90024,72000,1170,1125,26,100,Somewhat Satisfied,SM
+1546179,Female,Black,22.09.1974,Yes,4,90034,50000,911,850,10,47,Somewhat Satisfied,SM
+1546224,Female,Asian,25.09.1980,Yes,5,90043,99000,228,417,9,76,Somewhat Satisfied,Web
+1546623,Female,Hispanic,24.05.1980,Yes,2,90029,56000,723,1038,22,188,Somewhat Satisfied,Referral
+1546870,Female,Black,24.05.1963,Yes,4,90062,71000,870,1127,19,40,Very Satisfied,Referral
+1547473,Male,White,26.11.1992,Yes,4,90027,65000,42,78,2,11,Somewhat Satisfied,Referral
+1547620,Male,White,5.11.1962,Yes,2,90001,63000,95,113,2,241,Somewhat Satisfied,TV
+1547771,Male,Asian,10.03.1996,Yes,3,90023,56000,679,790,10,352,Neutral,Web
+1547864,Female,Hispanic,15.06.1987,Yes,2,90050,44000,397,500,5,333,Somewhat Satisfied,TV
+1548038,Male,Hispanic,13.10.1996,No,3,90014,72000,182,163,1,52,Somewhat Satisfied,Web
+1548419,Female,Hispanic,27.05.1954,No,4,90067,42000,476,453,4,26,Very Satisfied,Referral
+1549186,Male,Hispanic,18.03.1957,Yes,2,90045,94000,967,764,7,262,Neutral,TV
+1549239,Male,Black,8.07.1990,Yes,1,90010,151000,667,688,17,296,Very Satisfied,SM
+1549430,Male,White,26.03.1998,Yes,2,90066,97000,1334,1020,24,176,Somewhat Satisfied,TV
+1549535,Male,Hispanic,5.10.1961,Yes,4,90008,87000,438,538,8,320,Somewhat Satisfied,Web
+1549652,Female,Black,3.12.1957,Yes,4,90025,94000,572,767,7,227,Somewhat Dissatisfied,TV
+1549708,Male,White,1.06.1964,Yes,3,90032,78000,516,388,8,330,Very Satisfied,Web
+1550134,Male,Asian,7.01.1997,Yes,4,90021,91000,571,423,6,18,Somewhat Satisfied,TV
+1550268,Female,White,9.10.1991,Yes,5,90010,62000,986,862,19,273,Very Satisfied,Web
+1550307,Male,Asian,26.11.1954,Yes,1,90013,97000,887,1195,12,49,Somewhat Dissatisfied,Referral
+1550486,Male,White,28.04.1955,No,3,90001,122000,124,130,1,205,Very Satisfied,TV
+1550596,Female,Black,20.06.1987,Yes,5,90038,92000,125,183,1,26,Neutral,Referral
+1550597,Male,White,4.05.1963,Yes,1,90020,93000,618,489,7,308,Somewhat Satisfied,TV
+1550751,Male,Hispanic,15.01.1953,Yes,3,90013,56000,65,87,1,341,Somewhat Satisfied,Web
+1550842,Male,White,3.11.1984,Yes,4,90053,60000,403,684,14,195,Very Satisfied,TV
+1550969,Female,White,8.04.1978,Yes,4,90030,47000,1045,774,16,76,Neutral,TV
+1551391,Female,Black,10.06.1987,Yes,5,90051,63000,105,188,4,183,Somewhat Satisfied,Web
+1551454,Male,Black,5.08.1999,Yes,3,90034,94000,675,580,15,342,Very Satisfied,Web
+1551735,Male,Asian,27.09.1976,Yes,4,90028,73000,107,148,4,214,Neutral,Web
+1551796,Male,Black,14.11.1961,No,4,90045,46000,1730,1206,19,159,Very Satisfied,Web
+1552447,Female,White,1.07.1996,Yes,1,90010,55000,312,602,5,200,Somewhat Dissatisfied,Web
+1552841,Female,White,14.09.1976,Yes,3,90068,52000,860,582,12,218,Somewhat Satisfied,Referral
+1553405,Female,Asian,9.01.1964,Yes,1,90042,50000,1566,1193,27,251,Somewhat Satisfied,SM
+1553430,Male,White,10.11.1952,Yes,4,90044,77000,707,587,5,180,Very Satisfied,Referral
+1553530,Male,Black,15.09.2000,Yes,5,90033,109000,1028,1113,13,29,Somewhat Satisfied,Web
+1553559,Male,White,26.08.1997,Yes,4,90065,68000,87,82,2,149,Somewhat Dissatisfied,SM
+1553637,Male,Black,27.08.1958,Yes,5,90002,57000,547,900,15,158,Somewhat Satisfied,SM
+1553660,Female,White,2.08.1988,Yes,2,90023,47000,698,745,5,160,Somewhat Satisfied,SM
+1553692,Male,Hispanic,23.04.1995,No,4,90019,70000,63,60,1,288,Very Satisfied,Web
+1553737,Female,Hispanic,20.08.1979,Yes,5,90052,83000,1210,867,16,95,Neutral,TV
+1553843,Male,White,13.11.1980,Yes,5,90014,136000,363,289,4,89,Somewhat Satisfied,Web
+1553952,Male,Black,26.08.1984,No,5,90060,43000,771,1250,20,267,Somewhat Satisfied,TV
+1554342,Male,Hispanic,4.11.1969,Yes,1,90018,97000,1495,1126,26,313,Somewhat Dissatisfied,TV
+1554589,Male,Asian,20.09.1995,No,2,90030,56000,1489,1226,12,12,Somewhat Satisfied,TV
+1555143,Male,Asian,10.10.1975,Yes,1,90059,84000,870,950,18,211,Somewhat Dissatisfied,Web
+1555266,Male,White,4.04.1999,Yes,3,90063,50000,324,482,11,130,Somewhat Satisfied,SM
+1555356,Male,Hispanic,4.08.1987,Yes,3,90028,89000,899,1004,16,132,Somewhat Satisfied,Web
+1555414,Male,White,9.03.1956,No,5,90031,109000,652,1046,10,351,Neutral,SM
+1555438,Female,White,21.01.1966,Yes,5,90016,65000,637,728,12,22,Somewhat Dissatisfied,Web
+1555539,Female,Black,10.06.1981,Yes,2,90061,41000,913,1182,8,301,Very Satisfied,TV
+1555659,Female,Black,18.08.1994,Yes,3,90029,42000,1456,1101,11,38,Very Satisfied,TV
+1555979,Male,White,22.01.1956,Yes,2,90055,69000,636,706,12,67,Somewhat Satisfied,TV
+1556518,Female,White,25.06.1996,Yes,5,90025,62000,794,724,19,305,Somewhat Satisfied,Referral
+1556823,Female,Hispanic,26.04.1983,Yes,4,90032,58000,686,1123,8,254,Somewhat Satisfied,Referral
+1557181,Male,White,19.02.1969,Yes,1,90067,105000,428,327,2,345,Very Satisfied,SM
+1557273,Male,Black,2.12.1966,Yes,2,90007,61000,275,431,6,205,Somewhat Satisfied,Web
+1557386,Male,Black,23.09.1975,No,3,90032,66000,706,564,4,69,Neutral,TV
+1557407,Male,White,26.12.1976,Yes,4,90015,48000,1398,1163,16,16,Somewhat Satisfied,Referral
+1557679,Female,White,28.09.1984,Yes,2,90004,72000,571,728,13,241,Somewhat Satisfied,TV
+1557697,Female,White,28.02.1961,Yes,2,90007,64000,1112,897,10,239,Somewhat Satisfied,SM
+1557820,Male,Black,13.09.1966,Yes,3,90039,80000,578,568,10,353,Neutral,SM
+1559734,Male,American Indian,26.06.1968,Yes,1,90004,75000,822,603,9,252,Neutral,TV
+1560021,Male,Black,28.06.1997,Yes,5,90054,50000,181,210,3,309,Neutral,SM
+1560248,Male,Black,8.03.1977,No,2,90021,54000,284,439,9,196,Somewhat Satisfied,Web
+1560301,Male,White,23.03.1985,No,3,90054,93000,553,907,17,164,Very Satisfied,Referral
+1560457,Male,Black,7.12.1989,Yes,3,90015,46000,789,745,15,318,Somewhat Dissatisfied,SM
+1560632,Female,Black,15.11.1952,Yes,2,90062,84000,532,467,11,108,Somewhat Satisfied,TV
+1560809,Male,Asian,26.08.1983,Yes,4,90047,58000,542,673,15,149,Somewhat Satisfied,SM
+1560830,Female,Black,4.02.1974,Yes,3,90034,63000,463,383,9,145,Somewhat Satisfied,Web
+1561447,Female,Black,27.11.1974,Yes,3,90043,43000,447,626,13,296,Somewhat Satisfied,SM
+1562348,Female,White,2.12.1963,Yes,3,90031,97000,877,860,7,115,Neutral,TV
+1562398,Male,White,7.11.1987,No,5,90047,70000,280,233,2,117,Somewhat Satisfied,Web
+1562550,Female,White,19.09.1977,Yes,4,90035,48000,1514,1106,26,342,Very Satisfied,TV
+1562867,Female,Black,2.07.1971,Yes,5,90064,97000,660,739,5,76,Somewhat Satisfied,TV
+1563068,Female,White,24.10.1993,No,5,90029,38000,369,267,6,308,Somewhat Satisfied,TV
+1563186,Male,Black,22.03.1964,Yes,5,90020,70000,779,871,13,76,Somewhat Satisfied,Web
+1563296,Male,White,12.08.1999,Yes,3,90027,95000,474,407,9,30,Very Satisfied,SM
+1563548,Male,American Indian,2.10.1988,Yes,5,90043,167000,1019,692,12,221,Very Satisfied,SM
+1563690,Male,White,11.05.1964,Yes,4,90057,100000,281,221,4,354,Very Satisfied,Web
+1563805,Female,White,21.05.1979,Yes,5,90032,54000,194,151,2,234,Somewhat Satisfied,Web
+1563935,Male,Hispanic,14.03.1974,Yes,1,90063,74000,1062,1075,28,145,Somewhat Satisfied,Web
+1563995,Male,Asian,10.12.1958,Yes,2,90010,109000,178,127,1,319,Very Satisfied,Web
+1564191,Male,White,17.11.1995,No,3,90059,38000,794,555,6,14,Somewhat Satisfied,Referral
+1564329,Female,Hispanic,10.01.1982,Yes,4,90029,102000,522,449,6,296,Somewhat Satisfied,Web
+1565323,Female,White,28.07.1966,Yes,3,90059,73000,451,421,10,180,Somewhat Satisfied,SM
+1565499,Male,White,14.11.1983,Yes,1,90018,69000,424,499,9,279,Somewhat Satisfied,Referral
+1565587,Male,Black,27.05.1985,Yes,4,90063,91000,657,842,7,103,Somewhat Satisfied,TV
+1565651,Male,Hispanic,1.02.1952,Yes,3,90032,65000,1646,1110,7,250,Neutral,SM
+1565786,Male,Asian,23.02.1960,Yes,3,90031,80000,415,300,4,139,Neutral,Referral
+1566013,Female,Black,12.08.1999,Yes,1,90022,34000,960,761,12,296,Somewhat Satisfied,SM
+1566051,Male,Hispanic,25.09.1995,Yes,1,90029,47000,274,517,10,345,Neutral,TV
+1566110,Male,Hispanic,3.07.1966,No,3,90055,51000,683,1092,22,358,Somewhat Satisfied,Web
+1566529,Female,White,3.03.1992,Yes,3,90016,78000,1164,1105,13,280,Somewhat Dissatisfied,Web
+1567124,Female,Black,9.12.1956,No,5,90015,67000,610,1128,10,59,Neutral,Web
+1567193,Female,White,15.10.1964,Yes,3,90010,61000,1157,962,22,168,Somewhat Dissatisfied,TV
+1567195,Male,White,13.07.1958,Yes,2,90047,136000,333,563,14,15,Somewhat Satisfied,Web
+1567250,Male,White,13.03.1977,Yes,4,90050,77000,275,288,2,174,Somewhat Satisfied,SM
+1567389,Female,Black,9.12.2000,Yes,2,90030,41000,1344,979,9,213,Very Satisfied,Web
+1567469,Male,White,18.02.1960,Yes,1,90065,87000,157,247,4,129,Somewhat Satisfied,Referral
+1567597,Male,White,5.09.1981,No,1,90032,71000,882,659,11,121,Very Satisfied,Referral
+1567998,Female,White,27.05.1988,Yes,2,90014,40000,653,556,5,100,Somewhat Satisfied,Referral
+1568380,Female,Pacific Islander,19.08.1956,Yes,2,90020,62000,1096,963,9,231,Neutral,TV
+1568821,Female,White,27.06.1974,Yes,2,90034,52000,572,698,10,345,Somewhat Satisfied,TV
+1569187,Male,Black,12.02.1956,Yes,4,90054,68000,758,620,11,97,Somewhat Dissatisfied,Web
+1569198,Male,Hispanic,3.06.1954,Yes,4,90064,54000,835,920,23,331,Somewhat Satisfied,Web
+1569840,Female,White,25.08.1989,Yes,1,90007,44000,700,823,20,173,Somewhat Satisfied,Web
+1570150,Female,White,8.03.1963,No,3,90054,53000,947,1155,27,352,Very Satisfied,TV
+1571158,Male,Black,22.11.1979,Yes,1,90052,74000,214,220,2,134,Somewhat Satisfied,Web
+1571419,Female,Black,17.08.1964,Yes,5,90064,41000,1285,1137,18,44,Very Satisfied,Web
+1571455,Male,Asian,5.03.1960,Yes,4,90043,95000,585,1144,7,176,Very Satisfied,Web
+1571457,Male,White,19.02.1996,Yes,1,90001,99000,963,1099,13,248,Somewhat Satisfied,SM
+1571887,Male,Black,11.08.1976,Yes,5,90013,99000,610,520,7,68,Neutral,SM
+1571944,Male,White,20.11.1967,Yes,5,90001,86000,312,226,2,100,Somewhat Satisfied,TV
+1572715,Female,Black,25.04.1997,No,4,90026,43000,93,69,1,223,Somewhat Satisfied,TV
+1572877,Female,White,28.07.1999,No,1,90032,42000,245,183,4,60,Somewhat Satisfied,TV
+1573196,Female,Black,4.11.2000,Yes,4,90012,70000,127,104,3,137,Neutral,Referral
+1573273,Male,White,9.09.1975,Yes,5,90023,110000,1497,1157,28,220,Somewhat Satisfied,Web
+1573758,Female,Hispanic,7.06.2000,No,3,90013,57000,531,986,15,13,Somewhat Satisfied,TV
+1573908,Male,White,10.09.1990,No,4,90039,71000,213,293,2,42,Very Satisfied,Referral
+1574015,Male,White,25.04.1988,No,2,90049,67000,708,549,12,133,Neutral,Web
+1574042,Female,Hispanic,19.10.1974,Yes,3,90013,108000,593,1044,9,213,Somewhat Satisfied,TV
+1574047,Female,Black,4.02.1972,Yes,1,90010,49000,298,202,2,248,Somewhat Satisfied,TV
+1574098,Male,Hispanic,24.11.1979,Yes,4,90050,86000,75,68,1,176,Somewhat Satisfied,Referral
+1574151,Female,Black,28.01.1980,Yes,5,90012,61000,778,1144,28,95,Somewhat Satisfied,TV
+1574379,Male,Black,1.09.1979,Yes,2,90047,60000,514,636,10,265,Neutral,Referral
+1574687,Female,Black,12.10.1968,Yes,1,90030,54000,266,338,5,281,Very Satisfied,Referral
+1574764,Female,White,19.02.1980,Yes,4,90041,87000,841,689,7,181,Somewhat Satisfied,TV
+1574841,Female,White,6.11.1981,Yes,2,90037,57000,1212,1122,28,228,Very Satisfied,Referral
+1575294,Male,White,25.08.1963,Yes,3,90061,75000,175,172,2,211,Somewhat Satisfied,Referral
+1575448,Male,Hispanic,19.06.1998,Yes,4,90050,100000,486,437,5,223,Somewhat Satisfied,Referral
+1575538,Male,Hispanic,2.11.1996,Yes,5,90063,129000,813,949,24,140,Neutral,Web
+1575993,Male,White,10.11.1986,Yes,3,90036,92000,406,409,3,294,Somewhat Satisfied,SM
+1576211,Female,White,14.08.1985,No,1,90017,31000,1336,1244,15,280,Very Satisfied,Web
+1576752,Male,Black,18.07.1968,Yes,4,90044,82000,1322,1241,11,159,Very Satisfied,TV
+1576984,Male,Black,20.02.1966,Yes,4,90050,87000,152,247,6,148,Neutral,Web
+1577095,Male,White,4.12.1997,Yes,2,90030,58000,471,319,2,128,Somewhat Satisfied,SM
+1577691,Male,Hispanic,27.03.1976,Yes,5,90001,97000,70,89,2,205,Somewhat Satisfied,TV
+1577940,Female,Black,27.02.1973,Yes,5,90019,94000,634,1206,18,181,Somewhat Satisfied,Web
+1578327,Male,Hispanic,24.08.1967,Yes,1,90024,49000,1015,760,11,136,Neutral,SM
+1578472,Female,Black,4.07.1962,Yes,2,90067,76000,385,322,7,344,Very Satisfied,Web
+1578525,Male,Hispanic,12.12.1963,Yes,1,90005,82000,1521,1121,25,302,Somewhat Satisfied,Web
+1579349,Male,Asian,19.12.1980,Yes,1,90010,49000,217,397,10,200,Somewhat Satisfied,Web
+1579389,Female,American Indian,21.05.2000,Yes,1,90009,50000,625,514,10,233,Somewhat Dissatisfied,Referral
+1579857,Female,White,26.01.1991,Yes,1,90055,52000,325,586,13,219,Somewhat Dissatisfied,Referral
+1579979,Male,White,5.07.1999,Yes,5,90043,102000,1080,926,10,113,Somewhat Satisfied,SM
