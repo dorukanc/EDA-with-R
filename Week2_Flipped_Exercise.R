@@ -5,18 +5,22 @@
 # Go to our e-book on Connect and open page 27. 
 #Download the data file and save the worksheet to your working directory as a csv file.
 #Import the dataset to a dataframe called myDataFlipped
-myDataFlipped <- read.csv("exercise2_10.csv", sep = ",")
+myDataFlipped <- read.csv("data/exercise2_10.csv", sep = ",")
 
 
 # Answer the question a
 
 sum(myDataFlipped$x4 < 3)
 
+#alternative
+
+length(which(myDataFlipped$x4<3))
 
 # Answer the question b
 
 sortedData1 <- myDataFlipped[order(myDataFlipped$x1, myDataFlipped$x2, myDataFlipped$x3, myDataFlipped$x4),]
 
+View(sortedData1)
 
 # Answer the question c
 
@@ -43,16 +47,21 @@ str(myDataFlipped)
 #Download the data file and save the worksheet to your working directory as a csv file.
 #Import the dataset to a dataframe called myDataFlipped2
 
+# Install readxl
+install.packages("readxl")
+library(readxl)
 
-
+myDataFlipped2 <- read_excel("data/data.xlsx", sheet="Exercise_2.23")
+myDataFlipped2$x2 <- as.factor(myDataFlipped2$x2)
 # Answer the question a
-
-
+subset1 <- myDataFlipped2[,-4]
+susbet1_1 <- myDataFlipped2[,1:3]
 
 # Answer the question b
 
-
-
+which(!complete.cases(myDataFlipped2))
+missingData <- myDataFlipped2[!complete.cases(myDataFlipped2),]
+View(missingData)
 
 # Answer the question c
 
