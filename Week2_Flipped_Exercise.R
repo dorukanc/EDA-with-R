@@ -63,16 +63,17 @@ which(!complete.cases(myDataFlipped2))
 missingData <- myDataFlipped2[!complete.cases(myDataFlipped2),]
 View(missingData)
 
+missingData$rowNo <- which(!complete.cases(myDataFlipped2))
+
 # Answer the question c
 
-
+which(!complete.cases(myDataFlipped2))
 
 # Answer the question d
 
-
-
-# Answer the question e
-
+table(is.na(myDataFlipped2))
+#alternative
+sum(is.na(myDataFlipped2))
 
 
 #Exercise 2.2 - Question 23
@@ -80,15 +81,22 @@ View(missingData)
 #Download the data file and save the worksheet to your working directory as a csv file.
 #Import the dataset to a dataframe called myDataFlipped3
 
-
+myDataFlipped3 <- read_excel("data/data.xlsx", sheet="Travel_Plan")
 
 # Answer the question a
 
+subset4_1 <- myDataFlipped3[myDataFlipped3$Income > 75000 & myDataFlipped3$TravelPlan == 1,]
 
+dim(subset4_1)
 
 # Answer the question b
 
+# find the mean of food spent
+meanFoodSpent <- mean(myDataFlipped3$FoodSpend, na.rm= TRUE)
+medianIncome <- median(myDataFlipped3$Income, na.rm = TRUE)
 
+myDataFlipped3$FoodSpend[is.na(myDataFlipped3$FoodSpend)] <- meanFoodSpent
+myDataFlipped3$Income[is.na(myDataFlipped3$Income)] <- medianIncome
 
 # Answer the question c
 
