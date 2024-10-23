@@ -135,18 +135,32 @@ plot(myDataFlipped4$Math, myDataFlipped4$Writing,
 #Import the dataset to a dataframe called myDataFlipped5
 
 
-myDataFlipped5 <- read_excel("data/jaggia_ba_2e_ch04_data.xlsx", sheet = "")
+myDataFlipped5 <- read_excel("data/jaggia_ba_2e_ch04_data.xlsx", sheet = "Crime_Analysis")
+
+summary(myDataFlipped5)
+str(myDataFlipped5)
+
+# Categoric Data
+
+myDataFlipped5$CrimeType <- as.factor(myDataFlipped5$CrimeType)
+myDataFlipped5$Location <- as.factor(myDataFlipped5$Location)
 
 # Answer part a 
 
 
-
-
+tableData5 <- table(myDataFlipped5$CrimeType, myDataFlipped5$Location)
+tableData5
 
 # Answer part b
 
 
-
-
-
+heatmap(tableData5, col = colorRampPalette(c("white", "pink", "red"))(100),
+        Rowv = NA, Colv = NA,
+        scale = "row",
+        margins = c(8,10),
+        cexRow = 0.8,
+        cexCol = 0.9,
+        main = "Crime Freq by Location",
+        xlab = "Location",
+        ylab = "Crime Type")
 
