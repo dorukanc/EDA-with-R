@@ -16,6 +16,8 @@ str(myData)
 
 # Model 1: No interaction variable
 
+# Dependent on the left, independent(predictor variables) on the right
+
 model1 <- lm(Salary ~ GPA + MIS + Statistics, data=myData)
 
 summary(model1)
